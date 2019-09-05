@@ -15,9 +15,16 @@
 ### Websites/Articles/Slides
 
 ### Videos/Podcasts
+|Topic| Link | Description | Complexity | Length |
+|---  | ---  | ---         | ---        | ---  |
+|Calculus | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | Youtube Series illustrating calculus concepts | Intro | 12 x ~20 min |
+|Linear Algebra | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Youtube Series illustrating Linear Algebra concepts | Intro | 15 x ~10 min |
 
 ### Online Courses
 
+|Topic| Link | Description | Complexity | Length | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+| Calculus - Linear Algebra - PCA| [Coursera - Mathematics for Machine learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Videos and assignments connecting math concepts to machine learning | Intro | ~100 hours | Paid |
 
 ## Programming/Databases <a name = "prog"></a>
 
@@ -36,16 +43,20 @@
 
 ### Online Courses
 
+|Topic| Link | Description | Complexity | Length | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+|SQL | [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) | Basic Intro to SQL for Data Science using sqlite3 | Intro | ~20 hours | Paid |
+
 
 ## Statistics <a name = "stats"></a>
 
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
-| Statistics | [Modern Dive](https://moderndive.com/) | Learning Inference in R | Intro | Free |
-| Statistics | [Open Intro Statistics](https://leanpub.com/openintro-statistics) | Traditional textbook on foundational concepts in statistics | Intro | Suggested Donation $15 |
-| Statistics | [An Introduction to the Bootstrap](https://www.crcpress.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317#googlePreviewContainer) | Study of computational techniques to understand complicated data sets | Intermediate | $125 |
-| Statistics | [Statistical Rethinking - A Bayesian Course](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445) | Computational Approach to statistical models | Intermediate | $90 |
+| Inference | [Modern Dive](https://moderndive.com/) | Learning Inference in R | Intro | Free |
+| Foundational Statistics | [Open Intro Statistics](https://leanpub.com/openintro-statistics) | Traditional textbook on foundational concepts in statistics | Intro | Suggested Donation $15 |
+| Bootstrapping | [An Introduction to the Bootstrap](https://www.crcpress.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317#googlePreviewContainer) | Study of computational techniques to understand complicated data sets | Intermediate | $125 |
+| Bayesian Statistics | [Statistical Rethinking - A Bayesian Course](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445) | Computational Approach to statistical models | Intermediate | $90 |
 
 ### Websites/Articles
 
@@ -96,7 +107,7 @@
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
-|Data Visualization Principles | [Information Is Beautiful Awards](https://www.informationisbeautifulawards.com/) | Celebrates excellence & beauty in data visualization, infographics, interactive &  information art | Intro | Free |
+|Data Visualization | [Information Is Beautiful Awards](https://www.informationisbeautifulawards.com/) | Celebrates excellence & beauty in data visualization, infographics, interactive &  information art | Intro | Free |
 | Data Visualization | [Data Viz Project](https://datavizproject.com/) | Compilation of many types of plots and examples | Intro | Free |
 | Spatial Data Viz | [Kepler.gl](https://kepler.gl/) | geospatial analysis tool for large-scale data sets | Intro | Free |
 
