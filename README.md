@@ -1,6 +1,14 @@
 # Additional Resources
 
-## Math Foundations
+## Table of Contents
+- [Math Foundations](#math)
+- [Programming/Databases](#prog)
+- [Statistics](#stats)
+- [Machine Learning](#ml)
+- [Data Science Workflows and Presentation](#workflow)
+
+
+## Math Foundations <a name = "math"></a>
 
 ### Books/Textbooks
 
@@ -11,7 +19,7 @@
 ### Online Courses
 
 
-## Programming/Databases
+## Programming/Databases <a name = "prog"></a>
 
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
@@ -29,7 +37,7 @@
 ### Online Courses
 
 
-## Statistics
+## Statistics <a name = "stats"></a>
 
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
@@ -50,7 +58,7 @@
 ### Online Courses
 
 
-## Machine Learning
+## Machine Learning <a name = "ml"></a>
 
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
@@ -77,7 +85,7 @@
 
 
 
-## Data Science Workflows and Presentation
+## Data Science Workflows and Presentation <a name = "workflow"></a>
 
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
