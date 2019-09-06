@@ -3,30 +3,31 @@
 ## Table of Contents
 - [Math Foundations](#math)
 - [Programming/Databases](#prog)
-- [Statistics](#stats)
+- [Probability and Statistics](#stats)
 - [Machine Learning](#ml)
-- [Workflows and Presentation](#workflow)
+- [Workflows](#workflow)
+- [Visualization](#viz)
 - [Data Science General](#ds)
 
 
 ## Math Foundations <a name = "math"></a>
 
-### Books/Textbooks
+#### Books/Textbooks
 
 |Topic| Title | Authors | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  | ---|
 |Machine Learning | [Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong | Intro to Mathematics with the aim of preparing the reader to better tackle more advanced textbooks | Intro | Free |
 
 
-### Websites/Articles
+#### Websites/Articles
 
-### Videos/Podcasts
+#### Videos/Podcasts
 |Topic| Link | Description | Complexity | Length |
 |---  | ---  | ---         | ---        | ---  |
 |Calculus | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | Youtube Series illustrating calculus concepts | Intro | 12 x ~20 min |
 |Linear Algebra | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Youtube Series illustrating Linear Algebra concepts | Intro | 15 x ~10 min |
 
-### Online Courses
+#### Online Courses
 
 |Topic| Link | Description | Complexity | Length | Cost |
 |---  | ---  | ---         | ---        | ---  | --- |
@@ -34,9 +35,12 @@
 
 ## Programming/Databases <a name = "prog"></a>
 
-### Books/Textbooks
-|Topic| Link | Description | Complexity | Cost |
-|---  | ---  | ---         | ---        | ---  |
+#### Books/Textbooks
+|Topic| Title | Author | Description | Complexity | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+|R Package Development | [R Packages](http://r-pkgs.had.co.nz/) | Hadley Wickam | Online Textbook detailing package development in R | Intermediate | Free |
+
+
 
 ### Websites/Articles
 
@@ -45,44 +49,44 @@
 |Programming (python, shell, R, etc.)| [Exercism.io](https://exercism.io/my/tracks) | Organized coding challenges with well defined tracks | Intro - Hard | Free |
 | Shell Programming | [Learning the shell](http://linuxcommand.org/lc3_learning_the_shell.php) | Great introduction to learning the command line | Intro | Free |
 
-### Videos/Podcasts
+#### Videos/Podcasts
 
-### Online Courses
+#### Online Courses
 
 |Topic| Link | Description | Complexity | Length | Cost |
 |---  | ---  | ---         | ---        | ---  | --- |
 |SQL | [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) | Basic Intro to SQL for Data Science using sqlite3 | Intro | ~20 hours | Paid |
 
 
-## Statistics <a name = "stats"></a>
+## Probability and Statistics <a name = "stats"></a>
 
-### Books/Textbooks
+#### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
-| Inference | [Modern Dive](https://moderndive.com/) | Learning Inference in R | Intro | Free |
+| Inference | [Modern Dive](https://moderndive.com/) | Online Textbook for Learning Inference in R | Intro | Free |
 | Foundational Statistics | [Open Intro Statistics](https://leanpub.com/openintro-statistics) | Traditional textbook on foundational concepts in statistics | Intro | Suggested Donation $15 |
 | Bootstrapping | [An Introduction to the Bootstrap](https://www.crcpress.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317#googlePreviewContainer) | Study of computational techniques to understand complicated data sets | Intermediate | $125 |
 | Bayesian Statistics | [Statistical Rethinking - A Bayesian Course](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445) | Computational Approach to statistical models | Intermediate | $90 |
 
-### Websites/Articles
+#### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 | A/B Testing | [Evans A/B Test Tools](https://www.evanmiller.org/ab-testing/) | Statistical tools/visualizations for A/B Tests | Intro | Free
 
-### Videos/Podcasts
+#### Videos/Podcasts
 
-### Online Courses
+#### Online Courses
 
 
 ## Machine Learning <a name = "ml"></a>
 
-### Books/Textbooks
+#### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 | Statistics | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Math and statistical foundations of Machine Learning | Advanced | Free |
 
-### Websites/Articles
+#### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
@@ -94,7 +98,7 @@
 | Recommender Systems | [Target predict pregnancy](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#4cbc50966668) | Article illustrating other considerations when recommending products (trust) | Intro | Free |
 | Recommender Systems | [UBC Mark Schmidt Slides](https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/L29.pdf) | Overview slides on Content Based and Collaborative filtering (start at pg. 15) | Intermediate | Free|
 
-### Videos/Podcasts
+#### Videos/Podcasts
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
@@ -102,23 +106,27 @@
 
 
 
-## Workflows and Presentation <a name = "workflow"></a>
+## Workflows <a name = "workflow"></a>
 
-### Books/Textbooks
+#### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 |Data Science Workflows | [The Art of Data Science](https://leanpub.com/artofdatascience) | Book describing the process of data science | Intro | Suggested donation $30 |
 
-### Websites/Articles
+
+
+#### Videos/Podcasts
+
+#### Online Courses
+
+## Visualization <a name = "viz"></a>
+
+#### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 |Data Visualization | [Information Is Beautiful Awards](https://www.informationisbeautifulawards.com/) | Celebrates excellence & beauty in data visualization, infographics, interactive &  information art | Intro | Free |
 | Data Visualization | [Data Viz Project](https://datavizproject.com/) | Compilation of many types of plots and examples | Intro | Free |
 | Spatial Data Viz | [Kepler.gl](https://kepler.gl/) | geospatial analysis tool for large-scale data sets | Intro | Free |
-
-### Videos/Podcasts
-
-### Online Courses
 
 ## Data Science General <a name = "ds"></a>
