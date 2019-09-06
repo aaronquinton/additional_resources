@@ -5,14 +5,19 @@
 - [Programming/Databases](#prog)
 - [Statistics](#stats)
 - [Machine Learning](#ml)
-- [Data Science Workflows and Presentation](#workflow)
+- [Workflows and Presentation](#workflow)
+- [Data Science General](#ds)
 
 
 ## Math Foundations <a name = "math"></a>
 
 ### Books/Textbooks
 
-### Websites/Articles/Slides
+|Topic| Title | Authors | Description | Complexity | Cost |
+|---  | ---  | ---         | ---        | ---  | ---|
+
+
+### Websites/Articles
 
 ### Videos/Podcasts
 |Topic| Link | Description | Complexity | Length |
@@ -32,7 +37,7 @@
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 
-### Websites/Articles/Slides
+### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
@@ -74,6 +79,7 @@
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
+|Machine Learning | [Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong | Intro to Mathematics with the aim of preparing the reader to better tackle more advanced textbooks | Intro | Free |
 | Statistics | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Math and statistical foundations of Machine Learning | Advanced | Free |
 
 ### Websites/Articles
@@ -96,14 +102,14 @@
 
 
 
-## Data Science Workflows and Presentation <a name = "workflow"></a>
+## Workflows and Presentation <a name = "workflow"></a>
 
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 |Data Science Workflows | [The Art of Data Science](https://leanpub.com/artofdatascience) | Book describing the process of data science | Intro | Suggested donation $30 |
 
-### Websites/Articles/Slides
+### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
@@ -114,3 +120,5 @@
 ### Videos/Podcasts
 
 ### Online Courses
+
+## Data Science General <a name = "ds"></a>
