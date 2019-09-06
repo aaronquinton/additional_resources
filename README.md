@@ -15,6 +15,7 @@
 
 |Topic| Title | Authors | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  | ---|
+|Machine Learning | [Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong | Intro to Mathematics with the aim of preparing the reader to better tackle more advanced textbooks | Intro | Free |
 
 
 ### Websites/Articles
@@ -79,7 +80,6 @@
 ### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
-|Machine Learning | [Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong | Intro to Mathematics with the aim of preparing the reader to better tackle more advanced textbooks | Intro | Free |
 | Statistics | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Math and statistical foundations of Machine Learning | Advanced | Free |
 
 ### Websites/Articles
