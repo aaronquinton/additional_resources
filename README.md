@@ -108,16 +108,34 @@
 
 ## Workflows <a name = "workflow"></a>
 
-#### Books/Textbooks
+#### Books, Textbooks & Papers
+|Topic| Title | Author | Description | Complexity | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+|Data Science Workflows | [The Art of Data Science](https://leanpub.com/artofdatascience) | Roger D. Peng | Book describing the process of data science | Intro | Suggested donation $30 |
+| Version Control and R | [Happy Git with R](https://happygitwithr.com/) | Jenny Bryan | Online textbook detailing git and Github with R | Intro | Free |
+| Reproducibility | [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) | Greg Wilson, Jenny Bryan | Paper highlighting great work flows in scientific analysis |Intermediate | Free |
+| Reproducibility | [Opinionated Analysis Development](https://peerj.com/preprints/3210/) | Hilary Parker | Paper discussing the process of developing an analysis | Intro | Free |
+
+#### Websites & Short Articles/Blogs
+
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
-|Data Science Workflows | [The Art of Data Science](https://leanpub.com/artofdatascience) | Book describing the process of data science | Intro | Suggested donation $30 |
+| Reproducibility | [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks) | Convenient docker images with Jupyter applications and tools | Intermediate | Free |
 
 
 
-#### Videos/Podcasts
+
+#### Videos & Podcasts
+
 
 #### Online Courses
+
+|Topic| Link | Description | Complexity | Length | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+| Automation and Make | [Software Carpentry - Make](http://swcarpentry.github.io/make-novice/) | Code tutorial walk throughs for practicing Make | Intro | 3 hours | Free |
+| Version control with Git | [Software Carpentry - Git](http://swcarpentry.github.io/git-novice/) | Code tutorial walk throughs for practicing Git | Intro | 3 hours | Free |
+
+
 
 ## Visualization <a name = "viz"></a>
 
@@ -130,3 +148,9 @@
 | Spatial Data Viz | [Kepler.gl](https://kepler.gl/) | geospatial analysis tool for large-scale data sets | Intro | Free |
 
 ## Data Science General <a name = "ds"></a>
+
+#### Websites/Articles
+
+|Topic| Link | Description | Complexity | Cost |
+|---  | ---  | ---         | ---        | ---  |
+|Research |[How to read a research paper](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6) | Blog discussing how to read scientific papers | Intro | Free |
