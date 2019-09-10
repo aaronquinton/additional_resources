@@ -48,6 +48,7 @@
 |---  | ---  | ---         | ---        | ---  |
 |Programming (python, shell, R, etc.)| [Exercism.io](https://exercism.io/my/tracks) | Organized coding challenges with well defined tracks | Intro - Hard | Free |
 | Shell Programming | [Learning the shell](http://linuxcommand.org/lc3_learning_the_shell.php) | Great introduction to learning the command line | Intro | Free |
+| SQL | [SQL Style Guide](https://www.sqlstyle.guide/) | Style guide I like to follow for SQL. Revolves around creating a river of white space | Intro | Free |
 
 #### Videos/Podcasts
 
@@ -61,12 +62,14 @@
 ## Probability and Statistics <a name = "stats"></a>
 
 #### Books/Textbooks
-|Topic| Link | Description | Complexity | Cost |
-|---  | ---  | ---         | ---        | ---  |
-| Inference | [Modern Dive](https://moderndive.com/) | Online Textbook for Learning Inference in R | Intro | Free |
-| Foundational Statistics | [Open Intro Statistics](https://leanpub.com/openintro-statistics) | Traditional textbook on foundational concepts in statistics | Intro | Suggested Donation $15 |
-| Bootstrapping | [An Introduction to the Bootstrap](https://www.crcpress.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317#googlePreviewContainer) | Study of computational techniques to understand complicated data sets | Intermediate | $125 |
-| Bayesian Statistics | [Statistical Rethinking - A Bayesian Course](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445) | Computational Approach to statistical models | Intermediate | $90 |
+|Topic| Title | Author | Description | Complexity | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+| Inference | [Modern Dive](https://moderndive.com/) | Chester Ismay, Albert Y. Kim|Online Textbook for Learning Inference in R | Intro | Free |
+| Foundational Statistics | [Open Intro Statistics](https://leanpub.com/openintro-statistics) | David Diez, Mine Cetinkaya-Rundel, Christopher Barr|Traditional textbook on foundational concepts in statistics | Intro | Suggested Donation $15 |
+| Bootstrapping | [An Introduction to the Bootstrap](https://www.crcpress.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317#googlePreviewContainer) | Bradley Efron, R.J. Tibshirani | Study of computational techniques to understand complicated data sets | Intermediate | $125 |
+| Bayesian Statistics | [Statistical Rethinking - A Bayesian Course](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445) | Richard McElreath |  Textbook discussing a computational Approach to statistical models | Intermediate | $90 |
+| Bayesian Statistics | [Think Bayes](https://greenteapress.com/wp/think-bayes/) | Allen Downey | Textbook discussing Bayesian analysis and doing it in Python | Intermediate | Free |
+|Bayesian Statistics | [Introduction to empirical Bayes](https://gumroad.com/l/empirical-bayes) | David Robinson | Online Textbook with practical code examples using Bayes in R and baseball | Intro | Suggested Donation $10 |
 
 #### Websites/Articles
 
@@ -84,7 +87,7 @@
 #### Books/Textbooks
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
-| Statistics | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Math and statistical foundations of Machine Learning | Advanced | Free |
+| Machine Learning Math | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Math and statistical foundations of Machine Learning | Advanced | Free |
 
 #### Websites/Articles
 
@@ -139,6 +142,14 @@
 
 ## Visualization <a name = "viz"></a>
 
+#### Books, Textbooks & Papers
+
+|Topic| Title | Author | Description | Complexity | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+|Data Viz Principles | [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) | Claus O. Wilke | Online Textbook covering a broad range of visualization practices without going into the code | Intro | Free |
+
+
+
 #### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
@@ -154,3 +165,9 @@
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 |Research |[How to read a research paper](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6) | Blog discussing how to read scientific papers | Intro | Free |
+
+
+#### Online Courses
+|Topic| Link | Description | Complexity | Length | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+|All things Data Science | [DataCamp](https://www.datacamp.com/home) | Interactive courses covering a range of topics and tools R, Python, SQL, Unix, Excel, Git | Intro - Intermediate | ~ 4 hour courses | Monthly Subscription |
