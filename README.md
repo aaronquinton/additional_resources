@@ -49,6 +49,8 @@
 |Programming (python, shell, R, etc.)| [Exercism.io](https://exercism.io/my/tracks) | Organized coding challenges with well defined tracks | Intro - Hard | Free |
 | Shell Programming | [Learning the shell](http://linuxcommand.org/lc3_learning_the_shell.php) | Great introduction to learning the command line | Intro | Free |
 | SQL | [SQL Style Guide](https://www.sqlstyle.guide/) | Style guide I like to follow for SQL. Revolves around creating a river of white space | Intro | Free |
+| SQL | [SQL Examples](http://www.sql-ex.com/) | Rough looking website, but with lots of SQL exercises to get practice | Intro-Hard | Free? |
+|Python | [Understanding List Comprehensions](https://spapas.github.io/2016/04/27/python-nested-list-comprehensions/) | Short article explaining nested list comprehensions | Intro | Free |
 
 #### Videos/Podcasts
 
@@ -64,6 +66,7 @@
 #### Books/Textbooks
 |Topic| Title | Author | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  | --- |
+| Stats and Probability Fundamentals | [Seeing Theory](https://seeing-theory.brown.edu/) | Daniel Kunin, Jingru Guo, Tyler Dae Devlin, Daniel Xiang | Online Textbook with interactive and excellent visuals | Intro | Free |
 | Inference | [Modern Dive](https://moderndive.com/) | Chester Ismay, Albert Y. Kim|Online Textbook for Learning Inference in R | Intro | Free |
 | Foundational Statistics | [Open Intro Statistics](https://leanpub.com/openintro-statistics) | David Diez, Mine Cetinkaya-Rundel, Christopher Barr|Traditional textbook on foundational concepts in statistics | Intro | Suggested Donation $15 |
 | Bootstrapping | [An Introduction to the Bootstrap](https://www.crcpress.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317#googlePreviewContainer) | Bradley Efron, R.J. Tibshirani | Study of computational techniques to understand complicated data sets | Intermediate | $125 |
