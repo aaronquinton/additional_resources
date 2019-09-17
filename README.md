@@ -83,7 +83,8 @@
 #### Videos/Podcasts
 
 #### Online Courses
-
+|Topic| Link | Description | Complexity | Length | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
 
 ## Machine Learning <a name = "ml"></a>
 
@@ -110,7 +111,10 @@
 |---  | ---  | ---         | ---        | ---  |
 | Reinforcement Learning | [Vsauce - A Game that learns](https://www.youtube.com/watch?v=sw7UAZNgGg8) | Entertaining video on a simple reinforcement learning algorithm | Intro | Free |
 
-
+#### Online Courses
+|Topic| Link | Description | Complexity | Length | Cost |
+|---  | ---  | ---         | ---        | ---  | --- |
+|NLP | [Advanced NLP with Spacy](https://course.spacy.io/) | Helpful online course on using spacy and understanding how to work with text data | Intermediate | 5 hours | Free |
 
 ## Workflows <a name = "workflow"></a>
 
@@ -163,12 +167,20 @@
 
 ## Data Science General <a name = "ds"></a>
 
+#### Meetups
+|Topic| Link | Description | Schedule |
+|---  | ---  | ---         | ---      |
+
+
+
 #### Websites/Articles
 
 |Topic| Link | Description | Complexity | Cost |
 |---  | ---  | ---         | ---        | ---  |
 |Research |[How to read a research paper](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6) | Blog discussing how to read scientific papers | Intro | Free |
-
+|Applications | [Business Data Science applications in Python](https://towardsdatascience.com/150-business-data-science-application-in-python-72597d90f928) | Blog post on towards data science. Great for understanding applications and coming up with project ideas | Intro | Free |
+|Other Resource List| [Towards Data Science References ](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63) | Curated list of Data Science Learning resources | Intro | Free |
+| Applications | [Industry Machine Learning](https://github.com/firmai/industry-machine-learning#accommodation) | A repo with a curated list of machine learning applications by industry | Intro | Free |  
 
 #### Online Courses
 |Topic| Link | Description | Complexity | Length | Cost |
