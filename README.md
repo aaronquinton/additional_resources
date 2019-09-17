@@ -181,6 +181,7 @@
 |Applications | [Business Data Science applications in Python](https://towardsdatascience.com/150-business-data-science-application-in-python-72597d90f928) | Blog post on towards data science. Great for understanding applications and coming up with project ideas | Intro | Free |
 |Other Resource List| [Towards Data Science References ](https://towardsdatascience.com/how-to-learn-data-science-my-path-ba7b9aa94f63) | Curated list of Data Science Learning resources | Intro | Free |
 | Applications | [Industry Machine Learning](https://github.com/firmai/industry-machine-learning#accommodation) | A repo with a curated list of machine learning applications by industry | Intro | Free |  
+|Other Resource List| [Data Science Career List](https://github.com/firmai/data-science-career) | Curated list of Data Science Career Opportunities | Intro | Free |
 
 #### Online Courses
 |Topic| Link | Description | Complexity | Length | Cost |
