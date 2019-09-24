@@ -51,6 +51,8 @@
 | SQL | [SQL Style Guide](https://www.sqlstyle.guide/) | Style guide I like to follow for SQL. Revolves around creating a river of white space | Intro | Free |
 | SQL | [SQL Examples](http://www.sql-ex.com/) | Rough looking website, but with lots of SQL exercises to get practice | Intro-Hard | Free? |
 |Python | [Understanding List Comprehensions](https://spapas.github.io/2016/04/27/python-nested-list-comprehensions/) | Short article explaining nested list comprehensions | Intro | Free |
+|ds.js | [Scrimba](https://scrimba.com/) | Online courses for Javascript and Html | Intro | Free?|
+
 
 #### Videos/Podcasts
 
